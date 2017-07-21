@@ -32,10 +32,41 @@ h1, h2, h3 {
     font-family: 'Julius Sans One', sans-serif;
 }
 
+p, h5 {
+    font-family: 'Roboto', sans-serif;
+}
+
+i {
+    margin-bottom: 0.25em;
+}
+.container-fluid { 
+  padding: 0px;
+}
+
+.aboutbox {
+    background: url("https://images.unsplash.com/photo-1473759417970-8adfd65beed2?dpr=1&auto=format&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb&crop=");
+    background-position: 0 20%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%
+    vertical-align: center;
+    display: flex;
+    padding-bottom: 15rem;
+    text-align: center;
+}
+
+#hello {
+    padding: 1% 20%;
+}
+
+#interaction {
+    text-align: center;
+}
 
 .contactform {
-    background: url("https://images.unsplash.com/photo-1429957342655-65cd4e38d9e3?dpr=1&auto=format&fit=crop&w=1500&h=994&q=80&cs=tinysrgb&crop=");
-    background-position: 0 50%;
+    background: url("https://images.unsplash.com/photo-1488517999014-971e70a3f677?dpr=1&auto=format&fit=crop&w=1500&h=1124&q=80&cs=tinysrgb&crop=");
+    background-position: 0 90%;
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
@@ -43,6 +74,10 @@ h1, h2, h3 {
     vertical-align: center;
     text-align: center;
     padding: 2% 0;
+}
+
+.contactform h2 {
+    color: gainsboro;
 }
 
 .form-group {
