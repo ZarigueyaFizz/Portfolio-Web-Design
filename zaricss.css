@@ -38,6 +38,16 @@ p, li, h5 {
     font-family: 'Roboto', sans-serif;
 }
 
+a:link {
+    color: mediumvioletred
+}
+
+a:hover {
+    color: mediumseagreen;
+}
+
+
+
 i {
     margin-bottom: 0.25em;
 }
