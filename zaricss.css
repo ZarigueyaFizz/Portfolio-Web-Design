@@ -57,7 +57,7 @@ i {
 
 .aboutbox {
     background: url("https://images.unsplash.com/photo-1473759417970-8adfd65beed2?dpr=1&auto=format&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb&crop=");
-    background-position: 0 25%;
+    background-position: baseline;
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
