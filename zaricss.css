@@ -178,3 +178,20 @@ i {
 #portcards {
     width: 90%;
 }
+
+/*Mood Boards*/
+
+.mood {
+width: 100%;
+float: left;
+padding-left: 3%;
+margin-bottom: 2%;
+}
+
+#boardpage {
+    text-align: center;
+}
+
+#boardpage h1 {
+    font-size: 4em;
+}
