@@ -1,0 +1,168 @@
+html,body {
+  height:100%;
+  width: 100%;
+}
+
+#all {
+    width: 100%;
+    height: auto;
+    vertical-align: center;
+}
+
+
+.goToTop {
+  position: fixed;
+  top: 0;
+  height: 70px;
+  width: 100%;
+  z-index: 1;
+}
+
+
+
+#header {
+    vertical-align: center;
+    text-align: center;
+    padding-left: 13%;
+    padding-right: 13%;
+    margin-top: 8%;
+    margin-bottom: 2%;
+}
+
+
+
+h1, h2 {
+    font-family: 'Dancing Script', cursive;
+    
+}
+
+h1 {
+    font-size: 7em;
+}
+
+h2 {
+    font-size: 5em;
+}
+
+.insertbar {
+    height: 25px;
+    background: rgba(203,255,203,0.85);
+    margin-bottom: 2%;
+}
+
+#apparel {
+    line-height: 50px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 3.5em;
+}
+
+a.anchor{display: block; position: relative; top: -100px; visibility: hidden;}
+
+.container-fluid {
+    margin: 0 6%;
+}
+
+#carouselExampleControls {
+    background-color: hotpink;
+}
+
+
+
+.navbar {
+    background-color: rgba(203,255,203,0.85);
+    margin-bottom: 2%;
+}
+
+ul {
+list-style: none;
+padding: 0;
+width:auto;
+margin: auto;
+}
+
+li {
+    margin: 0 1em;
+    display: inline;
+    text-align: center;
+    font-size: 2em;
+}
+
+
+#servicesoffered {
+    padding: 1% 1%;
+    text-align: center;
+}
+
+
+.card {
+    text-align: center;
+}
+
+.pricelist {
+    background: url(https://images.unsplash.com/photo-1490707967831-1fd9b48e40e2?dpr=1&auto=format&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb&crop=);
+    background-position: right;
+    background-repeat: no-repeat;
+    width: 100%;
+    vertical-align: center;
+    text-align: center;
+    padding: 1% 25% 1% 25%;
+}
+
+.plist {
+    text-align: center;
+}
+
+.pants {
+    text-align: center;
+}
+
+.aboutus {
+    width: 100%;
+    vertical-align: center;
+    text-align: center;
+    padding: 1% 1%;
+}
+
+#girls {
+    float: left;
+    margin-right: 2%
+}
+
+#ourstory {
+    text-align: left;
+   
+}
+
+.contactform {
+    background: url(https://images.unsplash.com/photo-1459204137123-238c569e22bd?dpr=1&auto=format&fit=crop&w=1500&h=996&q=80&cs=tinysrgb&crop=);
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    vertical-align: center;
+    text-align: center;
+    padding: 1% 15%;
+}
+
+.form-group {
+   width: 56%;
+   margin-left: auto;
+   margin-right: auto;
+   margin-bottom: 2%;
+
+}
+
+.custom-select{
+    width: 100%;
+}
+
+i {
+    color: #FF2EFF;
+    padding: 0 1.5%;
+}
+
+ #footer {
+     margin-top: 2%;
+     text-align: center;
+ }
+
+ 
