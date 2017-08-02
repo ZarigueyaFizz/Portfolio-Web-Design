@@ -195,3 +195,9 @@ margin-bottom: 2%;
 #boardpage h1 {
     font-size: 4em;
 }
+
+.moodbar {
+    height: 10px;
+    background: mediumseagreen;
+    margin-bottom: 0.5%;
+}
