@@ -165,4 +165,14 @@ i {
      text-align: center;
  }
 
- 
+ a:link {
+    color: mediumvioletred
+}
+
+a:visited {
+    color: turquoise;
+}
+
+a:hover {
+    color: mediumseagreen;
+}
